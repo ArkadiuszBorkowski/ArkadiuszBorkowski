@@ -10,6 +10,5 @@ public class CompareOperators {
 
         boolean instance = "Kasia" instanceof java.lang.String;
         System.out.println(instance);
-
     }
 }
