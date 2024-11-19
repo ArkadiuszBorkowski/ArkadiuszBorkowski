@@ -1,5 +1,5 @@
 ## Cześć, jestem Arkadiusz 👋
-Obecnie pracuję w branży ubezpieczeniowej, gdzie rozwijam i wdrażanm aplikacje webowe do obsługi polis oraz tworzę rozwiązania dla agencji finansowych.  W wolnym czasie chętnie oddaję się majsterkowaniu, tworząc coś z niczego. Moją pasją są również techniki survivalu i inteligentne rozwiązania w domu (smarthome).
+Obecnie pracuję w branży ubezpieczeniowej, gdzie rozwijam i wdrażam aplikacje webowe do obsługi polis i szkód oraz tworzę rozwiązania dla agencji finansowych.  W wolnym czasie chętnie oddaję się majsterkowaniu, tworząc coś z niczego. Moją pasją są również techniki survivalu i inteligentne rozwiązania w domu (smarthome).
 Posiadam wykształcenie w kierunku Informatyki i Ekonometrii, zdobyte na Uniwersytecie Gdańskim oraz Politechnice Gdańskiej. 
 
 ### 🌱 Obecnie uczę się: NoSQL
