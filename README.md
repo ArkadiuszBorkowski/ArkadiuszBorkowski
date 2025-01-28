@@ -20,7 +20,7 @@ Posiadam wykształcenie w kierunku Informatyki i Ekonometrii, zdobyte na Uniwers
 - VISUAL BASIC
 - JIRA / SCRUM / AGILE
 - MICROSOFT OFFICE / WINDOWS /
-- PHOTOSHOP / SKETHUP
+- PHOTOSHOP / SKETCHUP
 - JUNIT / MOCKITO / POSTMAN
 - Google AI Platform, Prompt Engineering
 - AI Solutions Development
