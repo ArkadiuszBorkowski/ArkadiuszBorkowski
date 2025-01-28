@@ -6,7 +6,8 @@ Posiadam wykształcenie w kierunku Informatyki i Ekonometrii, zdobyte na Uniwers
 
 ## Umiejętności 👇
 - JAVA CORE
-- SPRING BOOT
+- SPRING FRAMEWORK
+  (Spring Core,Spring Boot, Spring MVC, Spring Data,Security, Spring Web, JDBC, Dev)
 - API CLIENTS
 - HTML 5
 - CSS 3
@@ -14,11 +15,17 @@ Posiadam wykształcenie w kierunku Informatyki i Ekonometrii, zdobyte na Uniwers
 - SPRING FRAMEWORK
 - SQL / LIQUIBASE
 - DOCKER
+- MAVEN
 - GIT
 - VISUAL BASIC
-- JIRA
+- JIRA / SCRUM / AGILE
 - MICROSOFT OFFICE / WINDOWS /
 - PHOTOSHOP / SKETHUP
+- JUNIT / MOCKITO / POSTMAN
+- Google AI Platform, Prompt Engineering
+- AI Solutions Development
+- AI Workflow Automation
+- AI in Business Intelligence
 
 ## 🔭 Ostatni projekt:  [Insurance Management System](https://github.com/ArkadiuszBorkowski/Insurance-Management-System)
 https://github.com/ArkadiuszBorkowski/Insurance-Management-System
